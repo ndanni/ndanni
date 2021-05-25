@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Ndane Ndazhaga. Ask me anything about data and you've got your answer...
+
+I can build machine learning models, analyse data, model data, visualize data, everything about data.
+I love what I do and I am proud and confident of my skills.
+
+Pronous: SHE/HER. 
+Fun fact: I enjoy whatching wrestilng.
 <!--
 **ndanni/ndanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
