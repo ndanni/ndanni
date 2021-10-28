@@ -6,7 +6,7 @@ I can build machine learning models, analyse data, model data, visualize data, e
 I love what I do and I am proud and confident of my skills.
 
 Pronous: SHE/HER. 
-Fun fact: I enjoy whatching wrestilng.
+Fun fact: I enjoy watching wrestilng.
 <!--
 **ndanni/ndanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
